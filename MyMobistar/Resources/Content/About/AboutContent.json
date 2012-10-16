@@ -1,0 +1,35 @@
+{
+  "aboutContentList":
+  {
+    "aboutHeaderContent":
+    {
+      "applicationTitle": "Orange et Moi",
+      "applicationVersionNumber": "version 1.2",
+      "applicationRevisionNumber": "Revision 185",
+      "applicationCopyrightMention": "Propriété d'Orange France. Tous droits réservés."
+    },
+    "sections":
+    [
+     {
+     "sectionName": "Editeur",
+     "sectionBody": "Orange France SA\nRCS Créteil 428 706 097\nSiège social : 1 avenue Mandela\n94747 Arcueil cedex\nN° de téléphone : 01.55.22.22.22"
+     },
+     {
+     "sectionName": "Directeur de publication",
+     "sectionBody": "Alice Holzman"
+     },
+     {
+     "sectionName": "Hébergement",
+     "sectionBody": "Orange France SA\nRCS Créteil 428 706 097\nSiège social : 1 avenue Mandela\n94747 Arcueil cedex\nN° de téléphone : 01.55.22.22.22"
+     },
+     {
+     "sectionName": "Contact",
+     "sectionBody": "Pour tout renseignement, vous pouvez contacter votre service client habituel."
+     },
+     {
+     "sectionName": "Logiciels tiers",
+     "sectionBody": "NSData+gzip.m\nDrip\nCopyright 2007 theidiotproject. All rights reserved."
+     }
+     ]
+  }
+}
